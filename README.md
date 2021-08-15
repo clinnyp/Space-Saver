@@ -41,7 +41,10 @@ git clone https://github.com/clintonphilathong/SpaceSavers.git
 # Go into the repo
 cd SpaceSavers
 
-# Install dependencies
+# Install dependencies 
 npm install
+
+# Run Script
+npm run dev
 
 ```
