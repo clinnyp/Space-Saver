@@ -1,8 +1,9 @@
 <h1 align='center'>
     Space Savers
+    <img src="https://github.com/clintonphilathong/Space-Savers/blob/main/src/gif/space-saver.gif">
 </h1>
 
-<img src="https://github.com/clintonphilathong/Space-Savers/blob/main/src/gif/space-saver.gif">
+
 
 <p align='center'>
     <a>How to use</a> •
