@@ -9,6 +9,8 @@ Space Saver is an application that allows owners of property to rent out their s
 
 ## Methodologies
 <p>Our team made the decision to utilise Agile Software Development methodologies in order to meet our short deadline of one week. It was therefore crucial to ensure great communication and daily stand-ups in order to ensure we understood where each member of the team was at and how we could facilitate each other's progress, thus we iteratively imporving our design.
+
+
 </p>
 
 ##  Technologies 
