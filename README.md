@@ -12,7 +12,7 @@ Space Saver is an application that allows owners of property to rent out their s
 </p>
 <span align="center">
 <img src="https://github.com/clintonphilathong/Space-Saver/blob/main/src/photos/standup_2.PNG" height="400">
-<img src="https://github.com/clintonphilathong/Space-Saver/blob/main/src/photos/standup_1.jpg" height="400">
+<img src="https://github.com/clintonphilathong/Space-Saver/blob/main/src/photos/standup_1.jpg" height="300">
 </span>
 
 ##  Technologies 
