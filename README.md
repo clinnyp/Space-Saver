@@ -18,7 +18,7 @@ Space Saver is an application that allows owners of property to rent out their s
 
 ##  Technologies 
 <p align='center'>
- JavaScript • React • Tailwind • Redux • SQLite3 • Knex.js • Google Maps API
+ JavaScript • React • Tailwind • Redux • SQLite3 • Knex.js • Google Maps API •
  Node.JS • Express.JS • SuperAgent.JS • Playwright • Jest.js 
 </p>
 
